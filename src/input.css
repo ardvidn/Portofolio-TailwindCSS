@@ -27,7 +27,3 @@ body {
 .hamburger-active > span:nth-child(3) {
   @apply rotate-45;
 }
-
-.blobs-picture {
-  border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
-}
